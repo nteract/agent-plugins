@@ -13,8 +13,8 @@
     {
       "name": "nightly",
       "source": "./plugins/nightly",
-      "description": "nteract notebooks (nightly channel) in Claude Code.",
-      "version": "0.1.0"
+      "description": "nteract notebooks (nightly channel).",
+      "version": "0.2.5"
     }
   ]
 }
