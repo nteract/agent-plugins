@@ -1,6 +1,6 @@
 {
   "name": "nteract",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "Open, run, and edit nteract notebooks from Codex",
   "author": {
     "name": "nteract contributors",
@@ -18,7 +18,7 @@
     "visualization"
   ],
   "skills": "./skills/",
-  "mcpServers": "./.mcp.json",
+  "mcpServers": "./.codex-mcp.json",
   "interface": {
     "displayName": "nteract",
     "shortDescription": "Open, run, and edit notebooks from Codex",
