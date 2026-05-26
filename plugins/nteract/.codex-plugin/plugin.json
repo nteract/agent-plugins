@@ -1,13 +1,13 @@
 {
   "name": "nteract",
-  "version": "0.2.8",
+  "version": "0.3.0",
   "description": "Open, run, and edit nteract notebooks from Codex",
   "author": {
     "name": "nteract contributors",
     "url": "https://nteract.io"
   },
   "homepage": "https://nteract.io",
-  "repository": "https://github.com/nteract/desktop",
+  "repository": "https://github.com/nteract/nteract",
   "license": "BSD-3-Clause",
   "keywords": [
     "jupyter",
