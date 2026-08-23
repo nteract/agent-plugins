@@ -8,7 +8,7 @@
       "name": "nteract",
       "source": "./plugins/nteract",
       "description": "nteract notebooks.",
-      "version": "0.5.1"
+      "version": "0.5.3"
     },
     {
       "name": "nightly",
