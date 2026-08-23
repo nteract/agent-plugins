@@ -14,7 +14,7 @@
       "name": "nightly",
       "source": "./plugins/nightly",
       "description": "nteract notebooks (nightly channel).",
-      "version": "0.5.2"
+      "version": "0.5.3"
     }
   ]
 }
