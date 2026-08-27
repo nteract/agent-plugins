@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "nteract",
-      "version": "0.5.4",
+      "version": "0.5.5",
       "source": {
         "source": "local",
         "path": "./plugins/nteract"
